@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/swcrc",
+  "jsc": {
+    "parser": {
+      "decorators": true,
+      "syntax": "typescript"
+    },
+    "transform": {
+      "decoratorMetadata": true
+    }
+  },
+  "module": {
+    "type": "commonjs"
+  }
+}
